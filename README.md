@@ -5,7 +5,7 @@
 
 Projeto construído no evento Next Level Week da Rocketseat
 
-[Clique aqui para acessar o projeto](https://matheustmendes.github.io/nlw-esports-explorer)
+[🔗 Clique aqui para acessar o projeto](https://matheustmendes.github.io/nlw-esports-explorer)
 
 ![preview](./.github/nlwscreen.png)
 
